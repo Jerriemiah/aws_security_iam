@@ -1,4 +1,4 @@
-```
+
 # AWS Identity and Access Management (IAM) Project: Security & Identity Management
 
 ## 1. The Role of IAM in AWS
